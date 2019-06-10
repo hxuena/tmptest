@@ -1,0 +1,44 @@
+[2019-06-11T06:32:47.051] [ERROR] cheese - ReferenceError: result is not defined
+    at E:\3_yd\arctest\dist\controllers\indexController.js:22:15
+    at dispatch (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:198:12)
+    at E:\3_yd\arctest\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:18:13)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:10:15)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at E:\3_yd\arctest\node_modules\koa-compose\index.js:34:12
+[2019-06-11T06:32:51.136] [ERROR] cheese - ReferenceError: result is not defined
+    at E:\3_yd\arctest\dist\controllers\indexController.js:22:15
+    at dispatch (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:198:12)
+    at E:\3_yd\arctest\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:18:13)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:10:15)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at E:\3_yd\arctest\node_modules\koa-compose\index.js:34:12
+[2019-06-11T06:33:26.302] [ERROR] cheese - ReferenceError: result is not defined
+    at E:\3_yd\arctest\dist\controllers\indexController.js:22:15
+    at dispatch (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:198:12)
+    at E:\3_yd\arctest\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:18:13)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:10:15)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at E:\3_yd\arctest\node_modules\koa-compose\index.js:34:12
+[2019-06-11T06:33:32.872] [ERROR] cheese - ReferenceError: result is not defined
+    at E:\3_yd\arctest\dist\controllers\indexController.js:22:15
+    at dispatch (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (E:\3_yd\arctest\node_modules\koa-simple-router\index.js:198:12)
+    at E:\3_yd\arctest\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:18:13)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at app.use (E:\3_yd\arctest\dist\middlewares\errorHandle.js:10:15)
+    at dispatch (E:\3_yd\arctest\node_modules\koa-compose\index.js:42:32)
+    at E:\3_yd\arctest\node_modules\koa-compose\index.js:34:12
